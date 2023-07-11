@@ -1,0 +1,6 @@
+[submodule "GOGGLE"]
+	path = GOGGLE
+	url = git@github.com:dariusbarsony/GOGGLE.git
+[submodule "DECAF"]
+	path = DECAF
+	url = git@github.com:dariusbarsony/DECAF.git
