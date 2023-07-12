@@ -4,3 +4,6 @@
 [submodule "DECAF"]
 	path = DECAF
 	url = git@github.com:dariusbarsony/DECAF.git
+[submodule "UvA_FACT2022"]
+	path = UvA_FACT2022
+	url = git@github.com:ShuaiWang97/UvA_FACT2022.git
